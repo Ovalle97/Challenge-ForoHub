@@ -35,26 +35,6 @@ Foro Hub es una aplicación de foro diseñada para facilitar la comunicación y 
 - **Controller**: Clases de controlador que manejan las solicitudes HTTP.
 - **Security**: Clases relacionadas con la configuración de seguridad y la autenticación.
 
-## Instalación 🚧
-
-Clona este repositorio:
-```
-git clone https://github.com/Orliluq/ForoHub.git
-```
-
-Navega al directorio del proyecto:
-```
-cd ForoHub
-```
-- Abre el proyecto en tu IDE favorito (por ejemplo, IntelliJ IDEA o Eclipse).
-- Configuración
-- Base de datos: MySQL 📈
-
-<p align="center">
-    <img src="https://github.com/Orliluq/ForoHub/assets/122529721/53acb33d-6597-4700-822e-b87425f69383"/>
-</p>
-
-Este proyecto está configurado para usar una base de datos H2 en memoria por defecto. Puedes cambiar la configuración de la base de datos en el archivo application.properties.
 
 ### Swagger 📊
 Swagger está configurado para generar documentación de la API automáticamente. Puedes acceder a la interfaz de Swagger en la siguiente URL cuando el servidor esté en funcionamiento:
